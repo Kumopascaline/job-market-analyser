@@ -1,0 +1,277 @@
+Title ,Company,Location,Description,,
+"Machine Learning Software Development Engineer, AI Ops Integration","
+Amazon EU SARL, Irish Branch",Dublin,"As part of AI Operations Integration, we have a vision to transform Amazon Operations & Supply Chain into an AI-Native organization by delivering intuitive and differentiated AI solutions that solve enduring operational challenges. We blend vision with curiosity and Amazon's real-world experience to build rapidly AI capabilities. We accelerate our customers' businesses: internal operations teams across Amazon's global footprint through delivery of predictive analytics, LLMs and autonomous AI agents to automate decision-making across Amazon's global operations and supply chain.
+
+As a Machine Learning Software Development Engineer, you'll design and deploy production ready systems that combine traditional ML with modern agentic architectures to solve impactful operational problems at scale.
+
+This role combines the excitement of a startup environment with the scale of Amazon Operations. You'll research state-of-the-art open source and internal tools and will tackle highly ambiguous problems. If you thrive on ownership and dealing with ambiguity, passionate about AI and want to fundamentally influence how Amazon Operations leverages AI, this role offers an extraordinary opportunity to make your mark.
+
+Key job responsibilities
+What you'll do:
+Build and deploy ML/LLM-powered features across the full stack - from data pipelines and model serving to user-facing internal tools
+Implement AI agent components that automate complex operational workflows across multiple systems and decision points
+Develop internal front-end applications (dashboards, tools, products) that make AI outputs accessible to non-technical operations users at scale
+Build integrations across internal APIs, databases, and MCP servers to enable multi-system orchestration
+Contribute to the ML lifecycle: data pipelines, experimentation, deployment, monitoring, and evaluation
+Implement guardrails, evaluation frameworks, and human-in-the-loop patterns for production AI systems
+Collaborate with operations teams, program/product and scientists to translate requirements into shipped software
+
+The ideal candidates are engineers who've shipped ML/LLM systems to production, understand the practical challenges of MLOps, and want to work on problems where the impact is measurable in both customer experience and operational efficiency.
+
+About the team
+We're a cross-functional team of machine learning engineers, ML & AI scientists and Technical PM focused on automating operational decisions in Amazon's supply chain.
+
+Our charter is to identify high-impact automation opportunities, build AI agents that can handle them reliably, and deploy these systems into production
+where they process real decisions daily.
+
+The team operates with a build-measure-learn cycle. We work closely with operations partners to understand their problems, prototype solutions quickly, measure impact rigorously, and iterate based on real-world performance.",,
+Business Analyst,"
+Net2Source (N2S)","London Area, United Kingdom ","We are seeking a detail oriented Data Analyst Business System Analyst with strong experience in Financial Services or Capital Markets
+The role requires close collaboration with business stakeholders product owners and technical teams to analyze data define business requirements and translate them into clear functional and data specifications The candidate will play a key role in supporting data platforms reporting and downstream analytics initiatives",,
+Junior Data Scientist,Why Hiring,United Kingdom ,"Analyse and interpret large datasets to support business decision-making
+Develop and maintain automated workflows using Python and SQL
+Create dashboards, reports, and visualisations using BI and analytics tools
+Support predictive analytics, segmentation, and forecasting projects
+Assist in building scalable reporting and data processing solutions
+Collaborate with technical and non-technical teams to translate business needs into data solutions
+Contribute to the maintenance and optimisation of data models and pipelines
+Explore new technologies and AI-assisted approaches to improve operational efficiency
+Participate in team discussions, workshops, and continuous learning initiatives",,
+Data Analyst,Maviance PLC ,Douala,"Acquiring data from primary or secondary data sources and maintaining databases
+Interpreting data, analyzing results using statistical techniques
+Developing and implementing data analyses, data collection systems and other strategies that optimize statistical efficiency and quality
+Provide quality assurance of imported data, working with quality assurance analysts if necessary
+Processing confidential data and information according to guidelines
+Helping develops reports and analyses
+Managing and designing the reporting environment, including data sources, security, and metadata
+Training end-users on new reports and dashboards
+Supporting initiatives for data integrity and normalization",,
+Data Analyst Intern,Wake Up Whistle,India,"Analyze datasets using Excel, SQL, and Power BI
+
+Perform data cleaning, transformation, and validation
+
+Create interactive dashboards and reports
+
+Extract insights to support business decision-making",,
+Data Analyst,Acorns,United States,"Collaborate with the Core Experience team to drive the ideation and rigorous analysis of product experiments.
+
+Partner with Product, Finance, and Operations to build and maintain robust reports and dashboards specifically for our Core Experience product lines.
+
+Write and optimize complex SQL queries to extract data from various sources for deep-dive analysis.
+
+Utilize Databricks and DBT to transform raw data into clean, accessible datasets for the broader team.
+
+Design and manage intuitive Tableau dashboards that track key performance indicators (KPIs) for Investing and Banking features.
+
+Monitor customer behavior and product performance using Amplitude to identify opportunities for friction reduction and growth.
+
+Work with managers and cross-functional teams to establish priorities, including new infrastructure and tool building.",,
+Product Analyst,Edmentum,United States,Use data to evaluate educational product performance and identify areas for user engagement improvements.,,
+Senior Data Analyst,Molina Healthcare,United States,"Analyzes complex datasets from multiple sources to identify trends, patterns, risks, and opportunities. 
+?    Designs, develop, and maintain reports, dashboards, and data solutions using tools such as Structured Query Language (SQL), Microsoft Excel, and SQL Server Reporting Services (SSRS). 
+?    Translates business needs into reporting and analytical requirements; partner with stakeholders to deliver actionable insights. 
+?    Performs healthcare data analysis, including claims, pharmacy, lab, utilization, and cost data. 
+?    Develops and maintains data processes for extraction, transformation, validation, and integration. 
+?    Ensures data accuracy, integrity, and consistency through quality assurance and validation processes. 
+?    Creates forecasts, models, and recommendations based on statistical analysis and business context. 
+?    Leads or supports projects, including timeline management, requirements gathering, and deliverable execution.
+?    Documents methodologies, reporting processes, and business requirements. 
+?    Identifies and drives process improvements, standardization, and automation opportunities. 
+?    Presents findings and recommendations to leadership and cross-functional teams. 
+?    Supports regulatory, audit, and ad hoc data requests as needed..",,
+Revenue Operations Analyst,Sona,United States,"Maintain and administer Sona's GTM data model day to day: properties, objects, associations and lifecycle stages across HubSpot and connected systems, under the direction of the Head of RevOps
+
+Build and maintain integrations between GTM platforms (HubSpot, Gong, Lemlist, Sales Navigator, Cognism, Planhat, and others), ensuring data flows reliably and bi-directionally where needed
+
+Enforce data quality standards across the CRM: deduplication, enrichment, validation rules, and ongoing hygiene programmes to keep our contact, company, and deal data trustworthy
+
+Design and maintain reporting infrastructure: dashboards, custom reports, and data views that give revenue leaders accurate, timely visibility into pipeline, conversion, and attribution
+
+Build and manage workflow automations in HubSpot and n8n that reduce manual work for the commercial team while maintaining data integrity
+
+Support the development of a reliable data foundation that AI tools and agents can build on, working closely with the Growth AI Engineer to ensure systems are structured for programmatic access
+
+Document system architecture, data dictionaries, integration maps, and operational standards so the team can scale without tribal knowledge
+
+Troubleshoot and resolve system issues, integration failures, and data discrepancies quickly and methodically
+
+Evaluate and onboard new GTM tools as needs evolve, managing vendor relationships and technical implementation",,
+Analytics Consultant,GE Healthcare,United States,"esponsibilities Include:
+
+Support the development and refinement of analytics products by assisting with requirements gathering, documentation, and tracking feature requests
+Analyze client and internal user feedback to help identify product enhancement opportunities and usability improvements
+Assist senior team members in translating business and client needs into analytical use cases, dashboards, or prototype solutions
+Contribute to product testing and quality assurance by validating data outputs, identifying bugs, and documenting issues
+Help maintain product documentation, including data definitions, process flows, user guides, and release notes
+Collaborate with cross?functional teams (analytics, engineering, design, and activation) to support product build and iteration cycles
+Work alongside program team to engage with clients to validate analytics, gather feedback, and support coaching on interpretation and use of Command Center Tiles to achieve programmatic goals
+Contribute to the preparation of high?quality, on?time, and on?budget deliverables by managing assigned tasks within broader client engagements
+Support client relationship management efforts by participating in meetings with client stakeholders, including IT leaders and mid?level managers, and contributing thoughtfully to discussions
+Help prepare succinct, clear, and well?structured client?ready content, including analysis summaries and executive?level presentation materials
+Proactively surface potential client needs, risks, or opportunities based on data analysis or client interactions, escalating insights to senior team members",,
+Data Analyst,Modern Health,United States,"Modern Health is looking for a Data Analyst to join our Analytics team. The role reports into our Manager of Data Analytics and will work cross-functionally with our Go-To-Market (GTM), Clinical Strategy, and Finance teams as an embedded partner for all things data. This role is eligible for remote work within the USA, excluding Hawaii.
+
+In this role, you will:
+
+Own and expand client-facing reporting to help our customers understand the clinical and business value of their investment in Modern Health
+
+Build and maintain the data foundation that powers our analytics ? including dbt models, metric definitions, and the pipelines that keep our data reliable
+
+Support our clinical analytics workstreams, including outcomes reporting, ROI analyses, and compliance-related data work
+
+Partner with stakeholders across Clinical Strategy, Customer Success, Finance, and RevOps to surface insights, build reliable reporting, and help the organization make better data-driven decisions
+
+We would love to hear from you if you have a genuine interest in health data and outcomes, are energized by turning complex data into clear and actionable insights, and are excited to grow your skills in a high-impact, mission-driven analytics team.",,
+Business Intelligence Analyst,JET Infrastructure,United States,"JSSI Parts & Leasing (JPL) is hiring a Data Analyst to work in the Data Analytics department.
+The Data Analytics department is responsible for collecting, researching, and analyzing internal and external data to provide the company with key metrics on performance, demand forecasts from the part level to the whole aircraft, as well as analytical tools that support business decisions. The Data Analyst will develop new data products and methodologies, while maintaining existing ones. Candidates should have strong analytical abilities and experience developing data-driven metrics. Working knowledge of the aviation industry is an advantage.",,
+Revenue Operations Analyst,Viz.ai,United States,"The Revenue Operations Analyst (CS Focus) is responsible for driving continuous improvement in Customer Success (CS) operations in service of customer retention and growth. This entails designing and supporting business reviews and ROI analyses to drive value demonstration for our customers, managing and administering the CS tech stack, and synthesizing and analyzing data to glean insights to support our business. As a part of the Revenue Operations team, the analyst will also partake in other revenue-side operational initiatives, such as top-of-funnel operations to support company growth. The role will have a 80% focus on CS, with 20% allotted to other revenue-side initiatives.
+
+You will:
+
+Help design and deploy a systematic approach to value demonstration with our customers, a lynchpin of enterprise level partnership.
+
+Own the overall performance and CS usage of the CS tech stack, partnering with cross-functional system owners and administrators (e.g., Salesforce Admin, IT, Data and Analytics) to ensure data integrity, a single and accurate source of truth within Salesforce, and to coordinate operations and processes
+
+Design and deploy reporting to proactively assess customer health, identify growth opportunities, and partner with the CS Team to address potential customer issues
+
+Collaborate cross-functionally to develop new processes and reporting tools that enable the team to work smarter
+
+Be the go-to, trusted pair of hands that can resolve issues, answer questions, and take on helpful tasks to turbo-charge the CS team
+
+Take on a variety of other revenue-related operational projects, namely with top-of-funnel operations: Lead management, conversion funnel and SDR workflows to ensure a high-velocity
+
+",,
+Data Analyst,Whalar,United States,"The ideal candidate is accountable, organized, deadline-driven, and a proactive analytical thinker who will help take our work to the next level. Reporting to a Senior Measurement Manager at Whalar, the Data Analyst will be the analytical support for reporting tasks under our Client Services team.
+
+Here?s what you?ll do day-to-day:
+
+Collaborate with Client Services team to understand the diverse needs of each brand
+
+Synthesize data from a variety of platforms and provide clear actionable insights to reporting
+
+Aggregate, organize and visualize data to communicate effectively.
+
+Work closely with the greater analytics team to ensure the ongoing evolution and improvement of reporting outputs
+
+Partner with internal and external partners to measure the effectiveness of marketing campaigns and provide recommendations to the marketing team
+
+Develop ad-hoc analysis and reports",,
+Data Analyst,Clover Health,United States,"Assist in the creation and maintenance of dashboards, reports, and automated processes to monitor key metrics.
+Generate dashboards and reports to inform the product and operations teams using multiple BI tools
+Contribute to continuous improvement efforts by identifying inefficiencies in data processing and suggesting data management improvements.
+Support maintaining data in product systems for streamlined user experiences
+Work with multiple teams from both the business and engineering to support the data team?s needs
+Work with multiple product teams and projects ranging from provider facing tools, evaluations, operational workflow tools, compliance/regulatory products, and critical vendor integrations.
+Work with clinical, claims, application, and operational data to create customer facing reports by working closely with the account management and operations teams.
+Intake of support issues during the early stages of new product and feature launches
+Documentation of standard operating procedures for new product processes",,
+Data Scientist,U.S. Federal Government,United States,Designing and implementing statistical models to support public health and administrative initiatives.,,
+Senior Data Scientist,Microsoft,United States,Developing predictive models and A/B experimentation methods for Bing and AI search platforms.,,
+Data Scientist,Ford Motor Company,United States,Building machine learning models to drive strategic decision-making and risk optimization.,,
+Strategy & Analytics Data Scientist,McKesson,United States,Applying advanced analytics to healthcare and supply chain logistics to drive business outcomes.,,
+"Director, Data Science",Publicis Groupe,United States,Designing and delivering advanced ML/AI-based products integrated into core workflows.,,
+Data Science Advisor,Fannie Mae,United States,Applying machine learning and large-scale data processing to solve complex financial and operational problems.,,
+Data Scientist,Eurofins,United States,Focusing on scientific data analysis and AI-supported decision-making for materials characterization.,,
+Data Science SME,"JCTM, LLC",United States,Identifying opportunities to improve situational awareness and operational effectiveness through data science.,,
+Senior Data Scientist,Microsoft,Netherlands,Driving high-impact engineering projects with cloud-based solutions and AI for customers.,,
+Senior Applied Scientist,Microsoft,United Kingdom,Conducting foundational research on artificial intelligence and agentic AI systems.,,
+AI Engineer,National Research Council,Canada,"Focuses on generative AI, NLP, and responsible AI practices to provide expert technical advice and documentation.",,
+Lead AI/ML Data Scientist,Boeing,United States,"Brainstorms and deploys next-generation AI/ML products, specifically focusing on Agentic AI, NLP, and Computer Vision.",,
+Application Development IV (ML/AI),Everforth Apex,United States,"Designs production-grade ML solutions, including MLOps, API development, and scalable data pipelines.",,
+Machine Learning Engineer Graduate,TikTok,United States,"Develops search algorithms and recommendation systems, including user behavior modeling and multimodal content understanding.",,
+Machine Learning Engineer,Nanite Inc.,United States,"Designs and develops ML/AI capabilities for drug delivery, focusing on object classification and anomaly detection.",,
+Machine Learning Engineer,True Anomaly,United States,Develops and implements ML algorithms to solve complex problems and drive data-driven decision-making.,,
+Senior Staff Algorithm Engineer,Becton Dickinson,United States,"Designs and deploys algorithms for physiological monitoring, signal processing, and predictive clinical insights.",,
+AI/ML Researcher,Boeing,South Korea,Researches neural networks and reinforcement learning to build document information extraction pipelines using Vision-Language Models.,,
+Intern - AI-Based System Analysis,CARIAD SE,Germany,"Collaborates on data-driven workflows using AI tools and programming in Python, SQL, or MATLAB.",,
+Machine Learning Engineer (Ad Response),Amazon,United States,Architects large-scale distributed systems and utilizes ML frameworks like PyTorch or JAX for ad response prediction.,,
+AI Lead Engineer,Citi,United States,Collaborates with cross-functional teams to integrate agentic and generative AI solutions into client technology platforms.,,
+Lead AI Engineer,Tavant Technologies,United States,Responsible for developing and implementing advanced artificial intelligence solutions to enhance products and services.,,
+AI Engineer,Platinum Technologies,United States,Designs and develops AI-powered applications to drive business value and operational efficiency.,,
+Senior AI Engineer,Affinity.co,Canada,"Focuses on designing, building, and deploying AI/ML models in production environments.",,
+AI Enablement Engineer,Foods Connected,United Kingdom,Supports implementation decisions and accelerates AI adoption across enterprise teams.,,
+Senior GEN-AI Engineer,Klar,Germany,"Builds and maintains core AI platform services, focusing on data pipelines and LLM integration.",,
+AI Application Engineer,Private Advertiser,Malaysia,Develops AI-based automated chatbot systems and integrates AI into existing products.,,
+AI Engineer,Intetics,Morocco,Manages the build of AI orchestrators and develops LLM-based applications using RAG and tool-calling.,,
+Senior Full Stack Engineer (AI-Augmented),Omnizant,United States,"Uses AI tooling to build high-impact SaaS platforms, requiring advanced engineering and AI integration skills.",,
+"Manager, Digital & AI Engineering",PETRONAS,Malaysia,"Leads the planning, development, and implementation of digital and AI solutions to support digital transformation.",,
+Business Intelligence Analyst,MBRYONICS,Ireland,"Develop interactive dashboards and visualizations using Tableau, Power BI, and Python to provide actionable insights.",,
+Senior Operations Analyst (BI),Cook Group,Ireland,Translate complex business questions into actionable support tasks and incident resolutions.,,
+BI Analyst (Data Center),"GTT, LLC",United States,"Monitor metrics, maintain data models, and perform ad-hoc analysis to support operational decision-making.",,
+AI & Automation Senior BA,McKesson,Ireland,Track and report on benefits realization and support the adoption of AI-driven solutions across business units.,,
+BI & Data Analyst,Robert Half,United States,Build enterprise data models and scalable solutions to ensure reliable reporting across the organization.,,
+Sales Strategy & Ops Analyst,Phorest,Ireland,Manage incoming requests and build high-quality reports and data models for business teams.,,
+BI Analyst (Retail),Time International,Indonesia,Drive strategic decisions in the luxury retail sector through financial analytics and data-driven insights.,,
+Technical Business Analyst,OneNebula,South Africa,Collaborate with technical teams to translate business requirements into technical artifacts and solutions.,,
+Power BI Engineer,Private Advertiser,Indonesia,Collaborate with stakeholders to identify key performance indicators and maintain reporting backlogs.,,
+Marketing Analytics Specialist,Various Employers,United States,Analyze marketing data to optimize campaigns and inform strategy using tools like Google Analytics and A/B testing.,,
+Data Scientist,Curenetics,Nigeria,"Analyse and model complex biomedical and clinical datasets (omics, imaging, and patient records)
+Develop and evaluate machine learning models to predict patient treatment response
+Clean, preprocess, and visualise multimodal datasets
+Contribute to a quantum machine learning research project in collaboration with UKRI STFC
+Work with clinicians, engineers, and researchers to translate insights into product features
+Document methods, experiments, and results in technical reports and publications
+Support general administrative and operational tasks as needed",,
+Senior AI Engineer,ProgressSoft,Morocco,"Design, train, fine-tune, and evaluate models across classical machine learning, deep learning, and generative AI.
+Conduct exploratory data analysis, statistical testing, and time-series forecasting to support features, prompts, and KPIs.
+Build reproducible end-to-end workflows for data ingestion, feature engineering or prompt stores, training, CI/CD, and monitoring.
+Develop prompts, retrieval-augmented generation pipelines, and autonomous or assistive agents.
+Fine-tune LLMs on domain-specific datasets to improve accuracy and align outputs with product requirements.
+Expose AI components as microservices and event-driven workflows.
+Integrate AI systems with orchestration tools and business APIs to automate decision pipelines.
+Track advances in LLMs, vision, and analytics and share best practices with the engineering team.
+Mentor junior engineers and contribute to technical direction and engineering best practices.",,
+Machine Learning Engineer,Awarri Technologies,Nigeria,"Awarri Technologies is excited to announce an opening for an AI/ML Engineer to join our innovative Engineering team, based remotely from Ikorodu. This full-time position offers a unique opportunity to work on transformative AI and machine learning projects that drive significant advancements in our industry.
+
+In this role, you will leverage your expertise in artificial intelligence and machine learning to develop and implement cutting-edge algorithms and models. You will work closely with cross-functional teams to create solutions that enhance our product offerings and meet the evolving needs of our clients. At Awarri Technologies, we prioritize innovation and collaboration, fostering an environment where your contributions can have a meaningful impact.
+
+Responsibilities
+Key Responsibilities
+Lead the design, development, and deployment of advanced machine learning models and AI systems.
+Own Speech AI systems end to end, from data and model design to production deployment and monitoring
+Lead the design, training, fine-tuning, and evaluation of ASR and TTS models used in live systems
+Make architecture and model tradeoffs that balance quality, latency, cost, and reliability
+Build and maintain scalable training and inference pipelines using PyTorch and GPU acceleration
+Drive improvements in speech quality, robustness, and latency across real-world conditions
+Own speech data pipelines including preprocessing, augmentation, alignment, and labeling workflows
+Maintain and evolve phoneme inventories, lexicons, and G2P pipelines
+Diagnose and resolve failure modes such as alignment issues, pronunciation drift, tone degradation, and rare-word errors
+Define and uphold evaluation standards using metrics such as WER, CER, MOS, MCD, F0, and latency
+Ensure models meet quality and performance gates before production release
+Partner closely with backend and infrastructure teams to ship reliable, scalable speech services
+Lead technical decision-making for Speech AI components across the platform
+Mentor and unblock junior engineers working on speech-related systems
+Take full accountability for speech system outcomes in production, not just model performance",,
+AI Software Engineer,Rekrute,Morocco,Collaborates with multidisciplinary teams to build cutting-edge AI solutions and drive innovation in robust system architecture.,,
+Regional Data Analyst,MSI Reproductive Choices,Nigeria,"The Regional Data Analyst ? Africa will transform fragmented country-level operational, marketing and commercial datasets into actionable, timely insights that drive regional decision-making.
+
+Key Responsibilities
+Own regional data consolidation
+Build and maintain real-time dashboards
+Measure intervention ROI
+Forecast risks and opportunities
+Partner with country programmes and regional teams to ensure data is trusted, accessible and used to improve performance and scale initiatives",,
+Senior Data Engineer,Moniepoint,Nigeria,"Build and maintain robust data pipelines processing large volumes of data
+Update and optimise our data platform for speed, scalability and cost
+Coordinate with different functional teams to understand and meet their data needs
+Develop processes and tools to monitor and analyse model performance and data accuracy
+Solve general data-related problems",,
+BI Data Analyst,Blueion Support Services,South Africa,Translates complex datasets into actionable business insights; develops and tests SQL-based reports for organizational decision-making.,,
+Data Analyst,Royal Mabati Factory,Kenya,"Collects, interprets, and analyzes sales and business data to support strategic decision-making and enhance commercial performance.",,
+Junior AI Developer,BDO South Africa,South Africa,Designs and deploys AI solutions with a focus on NLP and generative AI; requires knowledge of data structures and quality validation principles.,,
+Data & Insights Lead,Vagmine Tech IT,South Africa,"Oversees data strategy and leads AI personalization products,  Calling skilled IT professionals in Johannesburg ? exciting career opportunities await with us in South Africa! ??
+
+If you're ambitious, technically strong, and ready to take your career international, this could be your next big move. ??
+
+
+
+ Machine Learning / AI Engineering
+ Data Science & Predictive Analytics
+ NLP / LLM / Generative AI
+ MLOps / CI-CD / Model Deployment
+Python / SQL / Cloud Platforms
+ AWS / Azure / GCP
+ Tableau / Power BI / Looker
+ Product Analytics / A/B Testing
+ ETL / Data Pipelines / Big Data
+Stakeholder & Technical Leadership",,
